@@ -1,2 +1,2 @@
 # Cool-Webpages
-A collection of :fire: and 👌 webpages, I made and learnt, using CSS, JavaScript and of course HTML.
+One of a cool webpage from my collection of 🔥 and 👌 webpages, I made and learnt, using CSS, JavaScript and of course HTML.
