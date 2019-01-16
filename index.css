@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Abel');
 
 html, body {
-  background: grey;
+  background-image: url("cool-background.png");
   font-family: Abel, Arial, Verdana, sans-serif;
 }
 
